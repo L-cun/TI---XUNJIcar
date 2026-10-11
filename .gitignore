@@ -1,0 +1,17 @@
+# CCS 编译输出
+Debug/
+Release/
+*.out
+*.obj
+*.map
+*.mk
+
+# 日志与临时文件
+stcisp_log/
+*.log
+*.tmp
+
+# 系统/IDE 缓存
+.DS_Store
+Thumbs.db
+*.swp
