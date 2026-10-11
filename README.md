@@ -61,13 +61,6 @@
 MIT License
 ```
 
-你直接复制全部内容，替换掉GitHub仓库里原来的README.md即可。
-
-### 两种上传方式
-1. 网页端：打开仓库页面，点README右上角铅笔图标，粘贴全部内容，提交保存。
-2. 本地WSL修改：
-```bash
-nano README.md
 # 粘贴文本，Ctrl+O保存，Ctrl+X退出
 git add README.md
 git commit -m "docs: 完善项目README文档"
